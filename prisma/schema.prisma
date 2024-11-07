@@ -1,0 +1,33 @@
+generator client {
+    provider = "prisma-client-js"
+}
+
+datasource db {
+    provider = "postgresql"
+    url      = env("DATABASE_URL")
+}
+
+model Standard {
+    id          String @id @default(uuid())
+    name        String
+    createDate   DateTime @default(now())
+    standardData Json
+
+    @@map("standards")
+}
+
+model Inspection {
+ inspectionID String @id @default(uuid())
+ name String
+ standardID String
+ standardName String
+ note String
+ price Int?
+ samplingPoints String[]
+ createDate DateTime @default(now())
+ samplingDateTime DateTime?
+ imageLink String?
+ standardData Json?
+
+ @@map("inspections")
+}

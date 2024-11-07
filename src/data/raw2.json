@@ -1,0 +1,168 @@
+{
+  "requestID": "e562a660-47b6-4d90-93fe-1d10dc165bba",
+  "imageURL": "https://easyrice-es-trade-data.s3.ap-southeast-1.amazonaws.com/example-rice.webp",
+  "grains": [
+    {
+      "length": 7.1641,
+      "weight": 0.0176,
+      "shape": "wholegrain",
+      "type": "white"
+    },
+    {
+      "length": 6.2686,
+      "weight": 0.0173,
+      "shape": "wholegrain",
+      "type": "chalky"
+    },
+    {
+      "length": 7.0827,
+      "weight": 0.0197,
+      "shape": "wholegrain",
+      "type": "yellow"
+    },
+    {
+      "length": 6.8385,
+      "weight": 0.0181,
+      "shape": "wholegrain",
+      "type": "white"
+    },
+    {
+      "length": 5.8615,
+      "weight": 0.0183,
+      "shape": "broken",
+      "type": "chalky"
+    },
+    {
+      "length": 6.6756,
+      "weight": 0.0192,
+      "shape": "wholegrain",
+      "type": "chalky"
+    },
+    {
+      "length": 6.5128,
+      "weight": 0.0187,
+      "shape": "wholegrain",
+      "type": "white"
+    },
+    {
+      "length": 6.1872,
+      "weight": 0.0185,
+      "shape": "wholegrain",
+      "type": "white"
+    },
+    {
+      "length": 5.7801,
+      "weight": 0.0147,
+      "shape": "broken",
+      "type": "chalky"
+    },
+    {
+      "length": 5.5359,
+      "weight": 0.0146,
+      "shape": "broken",
+      "type": "white"
+    },
+    {
+      "length": 6.5128,
+      "weight": 0.0175,
+      "shape": "wholegrain",
+      "type": "chalky"
+    },
+    {
+      "length": 6.9199,
+      "weight": 0.0196,
+      "shape": "wholegrain",
+      "type": "white"
+    },
+    {
+      "length": 6.5128,
+      "weight": 0.0183,
+      "shape": "wholegrain",
+      "type": "white"
+    },
+    {
+      "length": 8.141,
+      "weight": 0.0232,
+      "shape": "wholegrain",
+      "type": "chalky"
+    },
+    {
+      "length": 7.4897,
+      "weight": 0.023,
+      "shape": "wholegrain",
+      "type": "white"
+    },
+    {
+      "length": 6.5128,
+      "weight": 0.0183,
+      "shape": "wholegrain",
+      "type": "chalky"
+    },
+    {
+      "length": 5.2917,
+      "weight": 0.0126,
+      "shape": "broken",
+      "type": "yellow"
+    },
+    {
+      "length": 6.8385,
+      "weight": 0.0205,
+      "shape": "wholegrain",
+      "type": "chalky"
+    },
+    {
+      "length": 7.4083,
+      "weight": 0.0226,
+      "shape": "wholegrain",
+      "type": "white"
+    },
+    {
+      "length": 5.9429,
+      "weight": 0.016,
+      "shape": "wholegrain",
+      "type": "chalky"
+    },
+    {
+      "length": 6.9199,
+      "weight": 0.0211,
+      "shape": "wholegrain",
+      "type": "white"
+    },
+    {
+      "length": 6.1058,
+      "weight": 0.017,
+      "shape": "wholegrain",
+      "type": "white"
+    },
+    {
+      "length": 7.1641,
+      "weight": 0.0229,
+      "shape": "wholegrain",
+      "type": "white"
+    },
+    {
+      "length": 7.1641,
+      "weight": 0.0206,
+      "shape": "wholegrain",
+      "type": "white"
+    },
+    {
+      "length": 7.6526,
+      "weight": 0.0228,
+      "shape": "wholegrain",
+      "type": "white"
+    },
+    {
+      "length": 6.5942,
+      "weight": 0.0198,
+      "shape": "broken",
+      "type": "white"
+    },
+    {
+      "length": 7.5712,
+      "weight": 0.023,
+      "shape": "wholegrain",
+      "type": "chalky"
+    }
+  ]
+}
